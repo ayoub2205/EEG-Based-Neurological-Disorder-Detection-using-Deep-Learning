@@ -1,4 +1,4 @@
-# 🧠 EEG-Based Neurological Disorder Detection using Deep Learning
+#  EEG-Based Neurological Disorder Detection using Deep Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white" />
