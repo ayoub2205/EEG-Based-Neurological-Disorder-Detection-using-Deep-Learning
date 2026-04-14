@@ -9,21 +9,19 @@
   <img src="https://img.shields.io/badge/Status-Research%20Project-success" />
 </p>
 
->  End-to-end AI system for automated detection of neurological disorders from EEG signals using hybrid CNN-RNN architectures with a full-stack web interface.
+>  End-to-end AI system for automated detection of neurological disorders from EEG signals using hybrid architectures with a full-stack web interface.
 
 ---
 
 ## Overview
 
-Neurological disorders are complex and often difficult to diagnose due to the noisy and high-dimensional nature of EEG signals.
-This project presents a **complete intelligent system** that leverages **Deep Learning** to automatically analyze EEG signals and detect multiple neurological conditions.
+Neurological disorders are complex and challenging to diagnose due to the noisy, high-dimensional, and non-stationary nature of EEG signals. This project presents a comprehensive intelligent system that leverages advanced deep learning techniques to automatically analyze EEG data and detect multiple neurological conditions. It demonstrates the significant potential of artificial intelligence in enhancing early diagnosis and providing efficient, accessible decision-support tools. Furthermore, this work highlights the growing impact of deep learning in the biomedical domain and paves the way for intelligent systems capable of effectively assisting healthcare professionals in clinical decision-making.
 
 ###  Key Contributions
 
 *  End-to-end pipeline (EEG → AI → Web App)
 *  Hybrid Deep Learning (CNN + RNN)
 *  Multi-disease detection system
-*  Full-stack deployment (Django + React)
 *  Real-world biomedical application
 
 ---
@@ -48,9 +46,8 @@ This project presents a **complete intelligent system** that leverages **Deep Le
 
 ##  System Architecture
 
-`<h3> Menu</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/images/img1.png" width="1200"/>
+  <img src="https://github.com/ayoub2205/EEG-Based-Neurological-Disorder-Detection-using-Deep-Learning/blob/f0835a3bc0a68a97a307e4eaab3543188c55c9ad/str.png" width="1200"/>
 
 ### 🔹 Pipeline Steps
 
@@ -111,7 +108,7 @@ This project presents a **complete intelligent system** that leverages **Deep Le
 
 ---
 
-## 🖥️ Web Application
+##  Web Application
 
 ### 🔹 Features
 
@@ -160,7 +157,6 @@ This project presents a **complete intelligent system** that leverages **Deep Le
 
 ```bash
 cd backend
-pip install -r requirements.txt
 python manage.py runserver
 ```
 
@@ -203,7 +199,6 @@ npm start
 * Explainable AI (XAI)
 * Model optimization
 * Clinical validation
-* Cloud deployment
 
 ---
 
@@ -211,7 +206,7 @@ npm start
 
 **Ayoub Chhibat**
 Master’s Degree in Embedded Systems & Digital Services
-Specialization: AI • Deep Learning • Biomedical Signal Processing
+Specialization: AI • ML • Deep Learning • Signal Processing
 
 ---
 
