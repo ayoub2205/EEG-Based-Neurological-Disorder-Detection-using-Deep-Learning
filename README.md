@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Status-Research%20Project-success" />
 </p>
 
->  End-to-end AI system for automated detection of neurological disorders from EEG signals using hybrid architectures with a full-stack web interface.
+>  End-to-end AI system for automated detection of neurological disorders from EEG signals.
 
 ---
 
